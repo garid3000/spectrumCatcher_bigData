@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: spectrumCatcher-bigData
+Version: 0.0.1
+Summary: a package that helps processing whole data that acquired with Spectrum Catcher
+Home-page: https://github.com/garid300/spectrumCatcher_bigData
+Author: Garid Zorigoo
+Author-email: garidzorigoo@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: example
+Platform: UNKNOWN

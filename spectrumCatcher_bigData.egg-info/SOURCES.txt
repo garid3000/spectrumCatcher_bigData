@@ -1,0 +1,6 @@
+README.md
+setup.py
+spectrumCatcher_bigData.egg-info/PKG-INFO
+spectrumCatcher_bigData.egg-info/SOURCES.txt
+spectrumCatcher_bigData.egg-info/dependency_links.txt
+spectrumCatcher_bigData.egg-info/top_level.txt
